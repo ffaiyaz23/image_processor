@@ -1,0 +1,3 @@
+S. No,Product Name,Input Image Urls,Output Image Urls
+1,SKU1,"https://fastly.picsum.photos/id/550/200/300.jpg?hmac=XYJd_N4d9B5UYc7zHt9tTuzuQ4ol2byXjSGvqPAsRkI,https://fastly.picsum.photos/id/679/200/200.jpg?hmac=sPsw4YJPQkWFqo2k5UycejGhY4UXvaDXStGmvJEhFBA","/processed_images/ecc3b9c1-b934-495c-b71a-2f820ef29267.jpg,/processed_images/874a82ab-e095-41cb-949d-93a675264273.jpg"
+2,SKU2,"https://fastly.picsum.photos/id/237/200/300.jpg?hmac=TmmQSbShHz9CdQm0NkEjx1Dyh_Y984R9LpNrpvH2D_U,https://fastly.picsum.photos/id/866/200/300.jpg?hmac=rcadCENKh4rD6MAp6V_ma-AyWv641M4iiOpe1RyFHeI","/processed_images/b8786f7e-cdb4-431c-b9f5-b2db7e32c9c5.jpg,/processed_images/4d1b918f-5494-4de9-8e1f-422b7521584a.jpg"
