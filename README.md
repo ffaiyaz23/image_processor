@@ -1,7 +1,6 @@
 # My Image Processing System
 
-I built a simple image processing system using **Python**, **FastAPI**, and **SQLAlchemy**. I’ll describe what I did, how the code is structured, and how each part works. I also completed a bonus webhook flow that triggers after all images are processed.
-
+I built a simple image processing system using **Python**, **FastAPI**, and **SQLAlchemy**.
 ---
 
 ## Project Overview
